@@ -1,0 +1,12 @@
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\controllers\CuentaController.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\DAOS\CuentaDAO.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\DAOS\EmpleadoDAO.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\DAOS\ICuentaDAO.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\DAOS\IEmpleadoDAO.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\models\Cuenta.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\models\Direccion.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\models\Empleado.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\models\Estatus.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\models\TipoCuenta.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\org\itson\bancojpa\BancoJPA.java
+C:\Users\thepe\OneDrive\Documentos\NetBeansProjects\BancoJPA\src\main\java\utils\JpaUtil.java
